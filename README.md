@@ -2,3 +2,7 @@
 This is my project about Microsoft Learn Student Ambassador technical onboarding for sharing profile by using Azure Static Web Apps. 
 
 ---
+
+My programming language in this project:
+- HTML 
+- CSS
